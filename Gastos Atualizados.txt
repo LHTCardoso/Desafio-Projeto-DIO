@@ -14,8 +14,15 @@ TOTAL: R$ 340,98
 VARIÁVEIS
 
 Cartão - Fazer fechamento todo dia 3
+
+Nubank - 136,29
+Banco do Brasil - 471,75
+Camisa BR - 130
+
 Dentista -800/4
-	set - 1x 200
+	set - 1x 200 ok
 	out - 2x 200
 	nov - 3x 200
 	dez - 4x 200
+
+Total mes 10 = 
