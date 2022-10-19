@@ -1,4 +1,4 @@
-Aulas dadas: 4
+Aulas dadas: 5
 
 05
 17hr
@@ -13,8 +13,7 @@ Aulas dadas: 4
 16hr
 
 -----------------------------------
-Aulas programadas:8
-
+Aulas programadas:7
 
 21
 13hr
