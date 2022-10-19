@@ -9,11 +9,12 @@ Aulas dadas: 4
 10
 16hr //  17hr
 
+11
+16hr
+
 -----------------------------------
 Aulas programadas:8
 
-11
-16hr
 
 21
 13hr
